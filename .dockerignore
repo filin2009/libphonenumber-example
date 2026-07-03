@@ -1,0 +1,6 @@
+vendor
+.git
+.twig_cache
+composer.phar
+Dockerfile
+*.log
